@@ -1,4 +1,8 @@
 
+<img src="https://github.com/droijals/droijals/blob/main/sysadmin.webp" width="200" height="133"> 
+
+### SYSADMIN 
+
 ## 🌐 Socials:
 Where I post inconsistencies :-P
 
