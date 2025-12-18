@@ -1,5 +1,5 @@
 
-<img src="https://github.com/droijals/droijals/blob/main/sysadmin.webp" width="200" height="133"> 
+<img src="https://github.com/droijals/droijals/blob/main/sysadmin2.png" width="200" height="200"> 
 
 ### SYSADMIN 
 
